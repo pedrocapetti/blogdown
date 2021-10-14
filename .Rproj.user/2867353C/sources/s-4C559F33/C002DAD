@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1634213753517.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C002DAD",
+    "lastKnownWriteTime" : 1634213908,
+    "last_content_update" : 1634213908993,
+    "path" : "D:/Documentos/novosite/content/css/custom.css",
+    "project_path" : "content/css/custom.css",
+    "properties" : {
+        "cursorPosition" : "0,12734",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}
