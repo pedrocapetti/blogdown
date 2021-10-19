@@ -2,7 +2,13 @@
 slug: sobre
 title: Sobre mim
 ---
-Tenho 25 anos e nasci em Itajuba (MG). Sou formado em Jornalismo pela [Universidade Federal de Juiz de Fora](https://www2.ufjf.br/ufjf/). Desde agosto de 2019, atuo como repórter de Economia do [Jornal O Globo](https://oglobo.globo.com/), onde trabalho diretamente na cobertura de temas macroeconômicos e análise de políticas, a partir de dados e estatísticas. Frequentemente, contribuo com reportagens de outras temáticas, como saúde, política e segurança pública.
+{{< figure src="https://avatars.githubusercontent.com/u/35001704?v=4" class="right-aligned" >}}
+
+Olá, tudo bom?
+
+Meu nome é Pedro Capetti, tenho 25 anos e sou Jornalista. Atualmente, sou Jornalista de Dados no [QuintoAndar](https://www.quintoandar.com.br/), maior propetch da América Latina. Entre outras atribuições, faço análises que dão origens a reportagens e atuo no desenvovimento de índices, estudos e pesquisas sobre o mercado imobiliário.
+
+Entre agosto de 2019 e março de 2021, fui repórter de Política e de Economia do [Jornal O Globo](https://oglobo.globo.com/), onde trabalhei diretamente em investigações, cobertura de temas macroeconômicos e análise de políticas, a partir de documentos, dados e estatísticas. 
 
 Matérias que fiz já foram publicadas em sites como O Globo, Extra, Época, Valor Econômico e Yahoo, além de repercutirem em veículos como TV Globo, GloboNews, El Pais e The Economist. 
 
@@ -15,8 +21,8 @@ Entre 2017 e 2018, realizei estágio no jornal [Tribuna de Minas](https://tribun
 Ainda como universitário, fui fundador do [Xeque Político](https://xequepolitico.wordpress.com/), um dos primeiros sites de fact checking do interior do Brasil. Também passei pela [Conjuntura e Mercados Consultoria,](https://www.cmcufjf.com.br/) onde fui responsável por trabalhar com indicadores econômicos inéditos, como o Indicador de Atividade Econômica Municipal (Iaem) e o Indicador de Inovação Municipal (Inova). 
 
 ## Experiência
-
- - **jul/2019 - até o momento:** Repórter da editoria de Economia do Jornal O Globo
+ - **jul/2019 - até o momento:** Jornalista de Dados no QuintoAndar
+ - **jul/2019 - mar/2021:** Repórter da editoria de Economia e Política do Jornal O Globo, Jornal Extra e Revista Época
  - **jan/2019 - jul/2019:** Estagiário do Jornal O Globo 
  - **2017 - 2018:** Estagiário do Jornal Tribuna de Minas, em Juiz de Fora (MG)
  - **2017:** Bolsista da Diretoria de Comunicação/UFJF

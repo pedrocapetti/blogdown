@@ -4,7 +4,7 @@ theme = "hugo-coder"
 relativeURLs = true
 languageCode = "en"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt-br"
 
 paginate = 20
 
@@ -53,7 +53,7 @@ disqusShortname = "Pedro Capetti"
     enableTwemoji = true
 
     # Custom CSS
-    customCSS = []
+    customCSS = ["css/custom.css"]
     
     # Alignment of Mobile Menu items
     itemscentered = true
@@ -108,34 +108,34 @@ disqusShortname = "Pedro Capetti"
     url = "mailto:pedrocapetti@gmail.com"
 
 [languages]
-    [languages.en]
+    [languages.pt-br]
         languagename = "English"
 
-        [languages.en.menu]
+        [languages.pt-br.menu]
 
             
-            [[languages.en.menu.main]]
-            name = "Sobre"
+            [[languages.pt-br.menu.main]]
+            name = "sobre mim"
             weight = 1
             url = "sobre/"
             
-            [[languages.en.menu.main]]
-            name = "Cursos"
+            [[languages.pt-br.menu.main]]
+            name = "cursos"
             weight = 5
             url = "cursos/"
 
-            [[languages.en.menu.main]]
-            name = "Principais Trabalhos"
+            [[languages.pt-br.menu.main]]
+            name = "principais trabalhos"
             weight = 3
             url = "reportagens/"
             
-            [[languages.en.menu.main]]
-            name = "Outras Matérias"
+            [[languages.pt-br.menu.main]]
+            name = "outras matérias"
             weight = 6
             url = "outras_reportagens/"
             
-            [[languages.en.menu.main]]
-            name = "Projetos"
+            [[languages.pt-br.menu.main]]
+            name = "projetos"
             weight = 4
             url = "projetos/"
             
