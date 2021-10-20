@@ -2,6 +2,9 @@
 slug: reportagens
 title: Reportagens
 ---
+
+
+
 ### [**Pesquisas eleitorais bancadas por institutos crescem em meio a suspeitas de fraudes**](https://oglobo.globo.com/brasil/eleicoes-2020/pesquisas-eleitorais-bancadas-por-institutos-crescem-em-meio-suspeitas-de-fraudes-conheca-as-historias-24719935)  
 A partir de documentos públicos, mostramos o potencial de desinformação gerado pelo mercado de pesquisas de opinião públicas, em alta no país. Revelamos que o esquema ocorre com a chancela do Tribunal Superior Eleitoral (TSE). Identificamos acusações de ofertas de resultados fraudulentos, levantamentos feitos a partir de formulários do Google e Facebook e uso de dados falsos de estatísticos. Após a reportagem, a [Procuradoria Geral Eleitoral](https://oglobo.globo.com/brasil/eleicoes-2020/mp-eleitoral-vai-apurar-indicios-de-fraudes-em-pesquisas-eleitorais-bancadas-por-institutos-24727419) abriu um procedimento para [investigar as denúncias](https://oglobo.globo.com/brasil/eleicoes-2020/mp-de-goias-faz-operacao-contra-empresa-suspeita-de-produzir-divulgar-pesquisas-fraudulentas-24730304).
 
