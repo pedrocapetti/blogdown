@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1634255022175.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "FD8364FC",
-    "lastKnownWriteTime" : 1634592293,
-    "last_content_update" : 1634592293224,
+    "lastKnownWriteTime" : 1634691413,
+    "last_content_update" : 1634692804472,
     "path" : "D:/Documentos/novosite/content/reportagens.md",
     "project_path" : "content/reportagens.md",
     "properties" : {
-        "cursorPosition" : "12,0",
-        "scrollLine" : "11"
+        "cursorPosition" : "7,0",
+        "scrollLine" : "4"
     },
     "read_only" : false,
     "read_only_alternatives" : [
