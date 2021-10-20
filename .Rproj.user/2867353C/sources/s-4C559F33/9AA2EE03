@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1705287490",
     "id" : "9AA2EE03",
-    "lastKnownWriteTime" : 1634694899,
-    "last_content_update" : 1634694899609,
+    "lastKnownWriteTime" : 1634762470,
+    "last_content_update" : 1634762470423,
     "path" : "D:/Documentos/novosite/static/css/custom.css",
     "project_path" : "static/css/custom.css",
     "properties" : {
-        "cursorPosition" : "37,24",
-        "scrollLine" : "22"
+        "cursorPosition" : "38,29",
+        "scrollLine" : "25"
     },
     "read_only" : false,
     "read_only_alternatives" : [

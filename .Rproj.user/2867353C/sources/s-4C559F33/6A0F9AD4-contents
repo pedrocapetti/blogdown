@@ -6,7 +6,7 @@ title: Sobre mim
 
 Olá, tudo bom?
 
-Meu nome é Pedro Capetti, tenho 25 anos e sou Jornalista. Atualmente, sou Jornalista de Dados no [QuintoAndar](https://www.quintoandar.com.br/), maior propetch da América Latina. Entre outras atribuições, faço análises que dão origens a reportagens e atuo no desenvovimento de índices, estudos e pesquisas sobre o mercado imobiliário.
+Meu nome é Pedro Capetti, tenho 25 anos e sou Jornalista. Atualmente, sou Jornalista de Dados no [QuintoAndar](https://www.quintoandar.com.br/), maior proptech da América Latina. Entre outras atribuições, faço análises que dão origens a reportagens e atuo no desenvovimento de índices, estudos e pesquisas sobre o mercado imobiliário.
 
 Entre agosto de 2019 e março de 2021, fui repórter de Política e de Economia do [Jornal O Globo](https://oglobo.globo.com/), onde trabalhei diretamente em investigações, cobertura de temas macroeconômicos e análise de políticas, a partir de documentos, dados e estatísticas. 
 
