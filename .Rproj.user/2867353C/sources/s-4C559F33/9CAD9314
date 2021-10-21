@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3559557716",
+    "hash" : "0",
     "id" : "9CAD9314",
-    "lastKnownWriteTime" : 1634820762,
-    "last_content_update" : 1634820762984,
+    "lastKnownWriteTime" : 1634820969,
+    "last_content_update" : 1634820969441,
     "path" : "D:/Documentos/novosite/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "80,57",
-        "scrollLine" : "80"
+        "cursorPosition" : "80,48",
+        "scrollLine" : "64"
     },
     "read_only" : false,
     "read_only_alternatives" : [
