@@ -78,7 +78,11 @@ disqusShortname = "Pedro Capetti"
 
 # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
 [params.goatCounter]
+<<<<<<< HEAD
     code = "https://pedrocapetti.goatcounter.com/counter"
+=======
+    code = "https://pedrocapetti.goatcounter.com"
+>>>>>>> c31969604afa23d25cd254bca961f67a03be3ac7
 
 [taxonomies]
   category = "categories"
