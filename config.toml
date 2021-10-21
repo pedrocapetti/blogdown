@@ -5,7 +5,7 @@ relativeURLs = true
 languageCode = "en"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 defaultContentLanguage = "pt-br"
-
+googleAnalytics = "UA-83777322-1"
 paginate = 20
 
 pygmentsStyle = "b2"
