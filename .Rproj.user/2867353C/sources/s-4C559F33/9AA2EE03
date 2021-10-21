@@ -13,7 +13,7 @@
     "project_path" : "static/css/custom.css",
     "properties" : {
         "cursorPosition" : "20,11",
-        "scrollLine" : "15"
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
