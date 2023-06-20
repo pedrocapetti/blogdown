@@ -2,9 +2,9 @@ baseURL = "/"
 title = "Pedro Capetti"
 theme = "hugo-coder"
 relativeURLs = true
-languageCode = "en"
+languageCode = "pt-br"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-defaultContentLanguage = "pt-br"
+defaultContentLanguage = "br"
 googleAnalytics = "UA-83777322-1"
 paginate = 20
 
@@ -124,11 +124,6 @@ disqusShortname = "Pedro Capetti"
             name = "principais trabalhos"
             weight = 3
             url = "reportagens/"
-            
-            [[languages.pt-br.menu.main]]
-            name = "outras matérias"
-            weight = 6
-            url = "outras_reportagens/"
             
             [[languages.pt-br.menu.main]]
             name = "projetos"
