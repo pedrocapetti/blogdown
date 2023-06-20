@@ -2,9 +2,6 @@
 slug: projetos
 title: Projetos
 ---
-{{< figure src="https://premioggm.org/wp-content/uploads/2023/06/10_UOL_INVESTIGA_POLICIA_BANDIDA_E_O_CLA_BOLSONARO.jpeg" class="portfolio-image" >}}
-## Podcast: Polícia Bandida e o Clã Bolsonaro 
-Reponsável pela pesquisa e produção do podcast [Polícia Bandida e o Clã Bolsonaro, do UOL]("https://open.spotify.com/show/7aB2gOf6UuzHlzRxdr2TQ1"). O podcast conta sobre a relação do clã Bolsonaro com policiais acusados por diversos crimes. O material traz uma radiografia dos policiais que o clã premiou com medalhas da cidade e do estado do Rio ao longo de 20 anos, além de revisitar histórias do clã, como as relações com Adriano da Nóbrega, a história completa do roubo da moto de Jair Bolsonaro e de como Flávio e Jair Bolsonaro defenderam milicianos ao longo da trajetória política. A produção foi [finalista do Prêmio Gabo]("https://premioggm.org/trabajo/edicion/2023/audio/uol-investiga-policia-bandida-e-o-cla-bolsonaro/") em 2023
 
 ####
 
@@ -18,7 +15,7 @@ Responsável pela pesquisa do [livro](https://www.companhiadasletras.com.br/livr
 ## Censo QuintoAndar de Moradia
 Responsável pelo Censo QuintoAndar de Moradia, uma pesquisa abrangente e inovadora que se destaca como a mais completa já realizada sobre o tema do morar no Brasil. Essa iniciativa se tornou um marco histórico para o QuintoAndar, gerando um pico de notícias sem precedentes. Com o objetivo de compreender as principais tendências e características do mercado imobiliário brasileiro, o Censo QuintoAndar de Moradia coletou dados valiosos de uma ampla amostra em todo o país. A pesquisa abrangeu uma variedade de aspectos relacionados ao morar, incluindo preferências habitacionais, perfil dos moradores, desejos, tipo de imóvel e muito mais.
 
-####
+###
 
 {{< figure src="https://deoliyp60f2gq.cloudfront.net/monitor-royalties/media/images/share.jpg" class="portfolio-image" >}}
 ## Monitor dos Royalties
