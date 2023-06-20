@@ -5,8 +5,7 @@ title: Reportagens
 
 {{< figure src="/images/jairrenan.jpg" class="portfolio-image" >}}
 ### [**Filho de Bolsonaro, Jair Renan atua para empresa ter acesso ao governo**](https://oglobo.globo.com/politica/filho-de-bolsonaro-jair-renan-atua-para-empresa-ter-acesso-ao-governo-24924388)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce suscipit malesuada libero ac luctus. Etiam commodo congue vulputate. Vestibulum sit amet malesuada tellus. Sed ullamcorper eros ac felis consequat congue. Aliquam ante eros, dapibus eget fermentum in, tincidunt accumsan velit. Donec quis facilisis purus. Curabitur in sodales leo. Curabitur porttitor auctor risus vitae viverra. Nunc euismod, urna at venenatis posuere, sem tellus mattis neque, vel dictum justo nulla pharetra felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut placerat ex at hendrerit euismod. Cras mattis dolor et ante dapibus, at vulputate eros faucibus.
-
+Reportagem mostrou que o filho do então presidente Jair Bolsonaro intermediou reuniões no governo para uma mineradora capixaba. Durante a gestão, a empresa recebeu pelo menos 15 autorizações da Agência Nacional de Mineração (ANM) para prospectar novas áreas, além de ter sido beneficiada com isenções fiscais. 
 
 ###
 

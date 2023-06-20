@@ -2,7 +2,25 @@
 slug: projetos
 title: Projetos
 ---
-{{< figure src="https://ogimg.infoglobo.com.br/in/24676267-42d-2d8/FT1086A/652/xshare-royalties.jpg.pagespeed.ic.3ThAAdjw5k.jpgw=150&h=150" class="portfolio-image" >}}
+{{< figure src="https://premioggm.org/wp-content/uploads/2023/06/10_UOL_INVESTIGA_POLICIA_BANDIDA_E_O_CLA_BOLSONARO.jpeg" class="portfolio-image" >}}
+## Podcast: Polícia Bandida e o Clã Bolsonaro 
+Reponsável pela pesquisa e produção do podcast [Polícia Bandida e o Clã Bolsonaro, do UOL]("https://open.spotify.com/show/7aB2gOf6UuzHlzRxdr2TQ1"). O podcast conta sobre a relação do clã Bolsonaro com policiais acusados por diversos crimes. O material traz uma radiografia dos policiais que o clã premiou com medalhas da cidade e do estado do Rio ao longo de 20 anos, além de revisitar histórias do clã, como as relações com Adriano da Nóbrega, a história completa do roubo da moto de Jair Bolsonaro e de como Flávio e Jair Bolsonaro defenderam milicianos ao longo da trajetória política. A produção foi [finalista do Prêmio Gabo]("https://premioggm.org/trabajo/edicion/2023/audio/uol-investiga-policia-bandida-e-o-cla-bolsonaro/") em 2023
+
+####
+
+{{< figure src="https://m.media-amazon.com/images/I/51qhS93KtxL.jpg" class="portfolio-image" >}}
+## Livro: O Negócio do Jair: A história proibida do clã Bolsonaro
+Responsável pela pesquisa do [livro](https://www.companhiadasletras.com.br/livro/9786559790807/o-negocio-do-jair), escrito por Juliana Dal Piva. O material desvenda o passado secreto da família que comandou o Brasil entre 2019 e 2022. O material parte do escândalo das rachadinhas exposto pelo caso Queiroz, a partir de dezembro de 2018, para contar uma história que remonta à entrada de Jair Bolsonaro na política na década de 1990. Com base em depoimentos exclusivos, cópias sigilosas dos autos judiciais, mais de cinquenta entrevistas, mil páginas em documentos, vídeos e gravações de áudio, a autora demonstra como, à sombra dos grandes esquemas partidários, o clã acumulou milhões de reais e construiu o projeto político autoritário e regressivo que conduziria o chefe da família ao posto mais alto da República. 
+
+####
+
+{{< figure src="https://media.licdn.com/dms/image/C4E22AQHN3ztUcLkezQ/feedshare-shrink_800/0/1645044297176?e=2147483647&v=beta&t=O-BFcr_WRpF2NYX6p-C6GwhChiXBJZsAhs8fIKheyOU" class="portfolio-image" >}}
+## Censo QuintoAndar de Moradia
+Responsável pelo Censo QuintoAndar de Moradia, uma pesquisa abrangente e inovadora que se destaca como a mais completa já realizada sobre o tema do morar no Brasil. Essa iniciativa se tornou um marco histórico para o QuintoAndar, gerando um pico de notícias sem precedentes. Com o objetivo de compreender as principais tendências e características do mercado imobiliário brasileiro, o Censo QuintoAndar de Moradia coletou dados valiosos de uma ampla amostra em todo o país. A pesquisa abrangeu uma variedade de aspectos relacionados ao morar, incluindo preferências habitacionais, perfil dos moradores, desejos, tipo de imóvel e muito mais.
+
+####
+
+{{< figure src="https://deoliyp60f2gq.cloudfront.net/monitor-royalties/media/images/share.jpg" class="portfolio-image" >}}
 ## Monitor dos Royalties
 
 [Monitor dos Royalties](https://infograficos.oglobo.globo.com/brasil/monitor-royalties.html#/home) foi um especial organizado ao lado da repórter especial de Economia do Globo, Cássia Almeida, para mostrar o impacto dos recursos do petróleo nos indicadores sociais nos últimos 20 anos. Além de uma plataforma que permite a consulta dos índices das cidades, a série de reportagens mostrou os desafios e problemas que vivenciam as cidades que receberam ou recebem esses recursos, como o da [expansão desordenada](https://oglobo.globo.com/economia/cidades-do-petroleo-enfrentam-desafio-da-expansao-desordenada-24676497), [economia](https://oglobo.globo.com/economia/2270-conheca-mumbuca-moeda-propria-de-marica-que-aquece-economia-salvou-empregos-na-pandemia-24674683), [educação](https://oglobo.globo.com/economia/de-escola-bilingue-salas-sem-estrutura-educacao-tem-avanco-desigual-em-cidades-milionarias-do-petroleo-24674733) e saneamento básico.
