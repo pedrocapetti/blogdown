@@ -2,9 +2,9 @@ baseURL = "/"
 title = "Pedro Capetti"
 theme = "hugo-coder"
 relativeURLs = true
-languageCode = "pt-br"
+languageCode = "en"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-defaultContentLanguage = "br"
+defaultContentLanguage = "pt-br"
 googleAnalytics = "UA-83777322-1"
 paginate = 20
 
