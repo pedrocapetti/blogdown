@@ -7,7 +7,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 defaultContentLanguage = "pt-br"
 googleAnalytics = "UA-83777322-1"
 paginate = 20
-
+enableEmoji = true
 pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
@@ -105,7 +105,7 @@ disqusShortname = "Pedro Capetti"
 
 [languages]
     [languages.pt-br]
-        languagename = "English"
+        languagename = ":us:"
 
         [languages.pt-br.menu]
 
@@ -130,3 +130,26 @@ disqusShortname = "Pedro Capetti"
             weight = 4
             url = "projetos/"
             
+            [languages.en]
+            languageName = ":brazil:"
+            
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "sobre mim/"
+            
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 5
+            url = "cursos/"
+            
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 3
+            url = "reportagens/"
+            
+            [[languages.en.menu.main]]
+            name = "Contact me"
+            weight = 4
+            url = "projetos/"
+
