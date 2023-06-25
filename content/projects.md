@@ -13,7 +13,7 @@ Responsável pela pesquisa do [livro](https://www.companhiadasletras.com.br/livr
 
 {{< figure src="https://media.licdn.com/dms/image/C4E22AQHN3ztUcLkezQ/feedshare-shrink_800/0/1645044297176?e=2147483647&v=beta&t=O-BFcr_WRpF2NYX6p-C6GwhChiXBJZsAhs8fIKheyOU" class="portfolio-image" >}}
 ## Censo QuintoAndar de Moradia
-Responsável pelo Censo QuintoAndar de Moradia, uma pesquisa abrangente e inovadora que se destaca como a mais completa já realizada sobre o tema do morar no Brasil. Essa iniciativa se tornou um marco histórico para o QuintoAndar, gerando um pico de notícias sem precedentes. Com o objetivo de compreender as principais tendências e características do mercado imobiliário brasileiro, o Censo QuintoAndar de Moradia coletou dados valiosos de uma ampla amostra em todo o país. A pesquisa abrangeu uma variedade de aspectos relacionados ao morar, incluindo preferências habitacionais, perfil dos moradores, desejos, tipo de imóvel e muito mais.
+Responsável pelo [Censo QuintoAndar de Moradia](https://censodemoradia.quintoandar.com.br/), uma pesquisa abrangente e inovadora que se destaca como a mais completa já realizada sobre o tema do morar no Brasil, em parceria com o Datafolha. Essa iniciativa se tornou um marco histórico para o QuintoAndar, gerando um pico de notícias sem precedentes. Com o objetivo de compreender as [principais tendências e características do mercado imobiliário brasileiro](https://jeitosdemorar.quintoandar.com.br/), o Censo QuintoAndar de Moradia coletou dados valiosos de uma ampla amostra em todo o país. O material traz informações sobre o mercado residencial no Brasil, a caracterização do domicílio e o planejamento financeiro dos brasileiros em relação à moradia, além de hábitos, anseios e desejos
 
 ###
 
