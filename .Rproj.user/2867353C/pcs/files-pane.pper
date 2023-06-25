@@ -1,8 +1,8 @@
 {
-    "path" : "D:/Documentos/novosite",
+    "path" : "D:/Documentos/novosite/public/pt-br",
     "sortOrder" : [
         {
-            "ascending" : false,
+            "ascending" : true,
             "columnIndex" : 2
         }
     ]

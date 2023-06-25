@@ -11,7 +11,7 @@ enableEmoji = true
 pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
-
+enableInlineShortcodes = true
 
 disqusShortname = "Pedro Capetti"
 
@@ -105,7 +105,7 @@ disqusShortname = "Pedro Capetti"
 
 [languages]
     [languages.pt-br]
-        languagename = ":us:"
+        languagename = ":brazil:"
 
         [languages.pt-br.menu]
 
@@ -131,8 +131,7 @@ disqusShortname = "Pedro Capetti"
             url = "projetos/"
             
             [languages.en]
-            languageName = ":brazil:"
-            
+            languageName = ":us:            
             [[languages.en.menu.main]]
             name = "About"
             weight = 1
