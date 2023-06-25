@@ -131,24 +131,34 @@ disqusShortname = "Pedro Capetti"
             url = "projetos/"
             
             [languages.en]
-            languageName = "english"            
+            languageName = "english"
+            
+            [languages.en.params]
+            author = "Pedro Capetti"
+            info = "Journalist"
+            hideFooter = false
+            hideCredits = false
+            hideCopyright = false
+            since = 2023
+
+
             [[languages.en.menu.main]]
-            name = "About"
+            name = "about me"
             weight = 1
-            url = "sobre mim/"
+            url = "sobre/"
             
             [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 5
+            name = "skills"
+            weight = 4
             url = "cursos/"
             
             [[languages.en.menu.main]]
-            name = "Projects"
+            name = "projects"
             weight = 3
-            url = "reportagens/"
+            url = "projetos/"
             
             [[languages.en.menu.main]]
-            name = "Contact me"
+            name = "my work"
             weight = 4
             url = "projetos/"
 
