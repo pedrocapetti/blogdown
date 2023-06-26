@@ -4,8 +4,6 @@ title: Sobre mim
 ---
 {{< figure src="https://avatars.githubusercontent.com/u/35001704?v=4" class="right-aligned" >}}
 
-Meu currículo
-
 Olá, tudo bom?
 
 Meu nome é Pedro Capetti, tenho 27 anos e sou Jornalista. Atualmente, sou Jornalista de Dados no [QuintoAndar](https://www.quintoandar.com.br/), maior proptech da América Latina. Entre outras atribuições, faço análises que dão origens a reportagens e atuo no desenvovimento de índices, estudos e pesquisas sobre o mercado imobiliário. Tenho experiência no uso de R, SQL e Python, além de ferramentas como Looker, Metabase e Big Query.

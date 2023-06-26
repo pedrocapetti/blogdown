@@ -118,7 +118,7 @@ disqusShortname = "Pedro Capetti"
             [[languages.pt-br.menu.main]]
             name = "cv"
             weight = 5
-            url = "https://github.com/pedrocapetti/"
+            url = "cv_2023.pdf"
 
             [[languages.pt-br.menu.main]]
             name = "principais trabalhos"
