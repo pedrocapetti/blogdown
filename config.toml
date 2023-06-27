@@ -116,19 +116,21 @@ disqusShortname = "Pedro Capetti"
             url = "sobre/"
             
             [[languages.pt-br.menu.main]]
-            name = "cv"
-            weight = 5
-            url = "cv_2023.pdf"
-
-            [[languages.pt-br.menu.main]]
             name = "principais trabalhos"
-            weight = 3
+            weight = 2
             url = "reportagens/"
             
             [[languages.pt-br.menu.main]]
             name = "projetos"
-            weight = 4
+            weight = 3
             url = "projetos/"
+            
+            [[languages.pt-br.menu.main]]
+            name = "cv"
+            weight = 4
+            url = "cv_2023.pdf"
+
+
             
             [languages.en]
             languageName = "english"
@@ -148,17 +150,24 @@ disqusShortname = "Pedro Capetti"
             url = "sobre/"
             
             [[languages.en.menu.main]]
+            name = "projects"
+            weight = 2
+            url = "projetos/"
+            
+            [[languages.en.menu.main]]
+            name = "my work"
+            weight = 3
+            url = "reportagens/"
+            
+            [[languages.en.menu.main]]
             name = "skills"
             weight = 4
             url = "cursos/"
             
             [[languages.en.menu.main]]
-            name = "projects"
-            weight = 3
-            url = "projetos/"
+            name = "cv"
+            weight = 5
+            url = "cv_2023.pdf"
             
-            [[languages.en.menu.main]]
-            name = "my work"
-            weight = 4
-            url = "projetos/"
+
 

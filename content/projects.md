@@ -1,5 +1,5 @@
 ---
-slug: about
+slug: projetos
 title: Projetos
 ---
 
