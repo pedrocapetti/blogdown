@@ -7,13 +7,20 @@ title: Projetos
 
 {{< figure src="https://m.media-amazon.com/images/I/51qhS93KtxL.jpg" class="portfolio-image" >}}
 ## Livro: O Negócio do Jair: A história proibida do clã Bolsonaro
-Responsável pela pesquisa do [livro](https://www.companhiadasletras.com.br/livro/9786559790807/o-negocio-do-jair), escrito por Juliana Dal Piva. O material desvenda o passado secreto da família que comandou o Brasil entre 2019 e 2022. O material parte do escândalo das rachadinhas exposto pelo caso Queiroz, a partir de dezembro de 2018, para contar uma história que remonta à entrada de Jair Bolsonaro na política na década de 1990. Com base em depoimentos exclusivos, cópias sigilosas dos autos judiciais, mais de cinquenta entrevistas, mil páginas em documentos, vídeos e gravações de áudio, a autora demonstra como, à sombra dos grandes esquemas partidários, o clã acumulou milhões de reais e construiu o projeto político autoritário e regressivo que conduziria o chefe da família ao posto mais alto da República. 
+Responsável pela pesquisa do [livro](https://www.companhiadasletras.com.br/livro/9786559790807/o-negocio-do-jair), escrito por Juliana Dal Piva. O material desvenda o passado secreto da família que comandou o Brasil entre 2019 e 2022. O material parte do escândalo das rachadinhas exposto pelo caso Queiroz, a partir de dezembro de 2018, para contar uma história que remonta à entrada de Jair Bolsonaro na política na década de 1990. Com base em depoimentos exclusivos, cópias sigilosas dos autos judiciais, mais de cinquenta entrevistas, mil páginas em documentos, vídeos e gravações de áudio, a autora demonstra como, à sombra dos grandes esquemas partidários, o clã acumulou milhões de reais e construiu o projeto político autoritário e regressivo que conduziria o chefe da família ao posto mais alto da República. A publicação foi finalista do [Prêmio Jabuti, na categoria Biografia e Reportagem](https://www.premiojabuti.com.br/jabuti/5-finalistas/)
+
 
 ####
 
 {{< figure src="https://media.licdn.com/dms/image/C4E22AQHN3ztUcLkezQ/feedshare-shrink_800/0/1645044297176?e=2147483647&v=beta&t=O-BFcr_WRpF2NYX6p-C6GwhChiXBJZsAhs8fIKheyOU" class="portfolio-image" >}}
 ## Censo QuintoAndar de Moradia
 Responsável pelo [Censo QuintoAndar de Moradia](https://censodemoradia.quintoandar.com.br/), uma pesquisa abrangente e inovadora que se destaca como a mais completa já realizada sobre o tema do morar no Brasil, em parceria com o Datafolha. Essa iniciativa se tornou um marco histórico para o QuintoAndar, gerando um pico de notícias sem precedentes. Com o objetivo de compreender as [principais tendências e características do mercado imobiliário brasileiro](https://jeitosdemorar.quintoandar.com.br/), o Censo QuintoAndar de Moradia coletou dados valiosos de uma ampla amostra em todo o país. O material traz informações sobre o mercado residencial no Brasil, a caracterização do domicílio e o planejamento financeiro dos brasileiros em relação à moradia, além de hábitos, anseios e desejos
+
+####
+
+{{< figure src="https://conteudo.imguol.com.br/c/noticias/4c/2022/09/22/segunda-temporada-do-podcast-uol-investiga-e-chamada-policia-bandida-e-o-cla-bolsonaro-1663884281679_v2_450x337.jpg" class="portfolio-image" >}}
+## Podcast UOL Investiga: Polícia Bandida e o Clã Bolsonaro
+Como freelancer, atuei na pesquisa para o podcast [UOL Investiga: Polícia Bandida e o Clã Bolsonaro](https://www.companhiadasletras.com.br/livro/9786559790807/o-negocio-do-jair), lançado em 2022. O material conta sobre a relação do clã Bolsonaro com policiais acusados por diversos crimes. A produção foi finalista do [Prêmio Gabo de Jornalismo 2023](https://premioggm.org/trabajo/edicion/2023/audio/uol-investiga-policia-bandida-e-o-cla-bolsonaro/)
 
 ###
 
