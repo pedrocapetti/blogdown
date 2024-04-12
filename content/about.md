@@ -23,8 +23,7 @@ Ainda como universitário, fui fundador do [Xeque Político](https://xequepoliti
 
 ## Experiência
  - **abr/2021 - até o momento:** Jornalista de Dados/Analista de Dados no QuintoAndar
- - **jul/2019 - mar/2021:** Repórter da editoria de Economia e Política do Jornal O Globo, Jornal Extra e Revista Época
- - **jan/2019 - jul/2019:** Estagiário do Jornal O Globo 
+ - **jan/2019 - mar/2021:** Repórter da editoria de Economia e Política do Jornal O Globo, Jornal Extra e Revista Época
  - **2017 - 2018:** Estagiário do Jornal Tribuna de Minas, em Juiz de Fora (MG)
  - **2017:** Bolsista da Diretoria de Comunicação/UFJF
  - **2016 - 2017:** Bolsista do projeto Grupo de Conjuntura da UFJF (Conjuntura e Mercados Consultoria)
@@ -39,6 +38,8 @@ Ainda como universitário, fui fundador do [Xeque Político](https://xequepoliti
  - Webscrapper 
  - APIs
  - Datawrapper/Flourish/Tableau
+ - Big Query
+ - Databricks
 
 ## Formação
 
